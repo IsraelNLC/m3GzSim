@@ -1,0 +1,3 @@
+[console_scripts]
+gazebo_sim = gazebo_sim.main:main
+

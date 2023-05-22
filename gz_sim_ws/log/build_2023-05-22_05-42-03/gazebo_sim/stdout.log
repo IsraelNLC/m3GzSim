@@ -1,0 +1,38 @@
+running egg_info
+creating ../../build/gazebo_sim/gazebo_sim.egg-info
+writing ../../build/gazebo_sim/gazebo_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/gazebo_sim/gazebo_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/gazebo_sim/gazebo_sim.egg-info/entry_points.txt
+writing requirements to ../../build/gazebo_sim/gazebo_sim.egg-info/requires.txt
+writing top-level names to ../../build/gazebo_sim/gazebo_sim.egg-info/top_level.txt
+writing manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build
+creating /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib
+creating /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+copying gazebo_sim/__init__.py -> /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+copying gazebo_sim/main.py -> /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+copying gazebo_sim/myQueue.py -> /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+running install
+running install_lib
+creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+copying /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim/__init__.py -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+copying /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim/main.py -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+copying /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim/myQueue.py -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+byte-compiling /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim/main.py to main.cpython-310.pyc
+byte-compiling /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim/myQueue.py to myQueue.cpython-310.pyc
+running install_data
+creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index
+creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index/resource_index
+creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index/resource_index/packages
+copying resource/gazebo_sim -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/gazebo_sim
+running install_egg_info
+Copying ../../build/gazebo_sim/gazebo_sim.egg-info to /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gazebo_sim script to /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/gazebo_sim
+writing list of installed files to '/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log'

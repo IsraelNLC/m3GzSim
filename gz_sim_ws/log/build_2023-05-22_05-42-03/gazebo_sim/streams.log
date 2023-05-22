@@ -1,0 +1,40 @@
+[1.648s] Invoking command in '/home/israel/pastaTesteNicola/gz_sim_ws/src/gazebo_sim': PYTHONPATH=/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/prefix_override:/home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazebo_sim build --build-base /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build install --record /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log --single-version-externally-managed
+[1.973s] running egg_info
+[1.973s] creating ../../build/gazebo_sim/gazebo_sim.egg-info
+[1.974s] writing ../../build/gazebo_sim/gazebo_sim.egg-info/PKG-INFO
+[1.975s] writing dependency_links to ../../build/gazebo_sim/gazebo_sim.egg-info/dependency_links.txt
+[1.975s] writing entry points to ../../build/gazebo_sim/gazebo_sim.egg-info/entry_points.txt
+[1.975s] writing requirements to ../../build/gazebo_sim/gazebo_sim.egg-info/requires.txt
+[1.976s] writing top-level names to ../../build/gazebo_sim/gazebo_sim.egg-info/top_level.txt
+[1.976s] writing manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+[1.977s] reading manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+[1.978s] writing manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+[1.978s] running build
+[1.978s] running build_py
+[1.979s] creating /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build
+[1.979s] creating /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib
+[1.979s] creating /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+[1.979s] copying gazebo_sim/__init__.py -> /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+[1.980s] copying gazebo_sim/main.py -> /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+[1.980s] copying gazebo_sim/myQueue.py -> /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim
+[1.980s] running install
+[1.980s] running install_lib
+[1.981s] creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+[1.981s] copying /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim/__init__.py -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+[1.982s] copying /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim/main.py -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+[1.982s] copying /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build/lib/gazebo_sim/myQueue.py -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim
+[1.982s] byte-compiling /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim/__init__.py to __init__.cpython-310.pyc
+[1.983s] byte-compiling /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim/main.py to main.cpython-310.pyc
+[1.985s] byte-compiling /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim/myQueue.py to myQueue.cpython-310.pyc
+[1.986s] running install_data
+[1.987s] creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index
+[1.987s] creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index/resource_index
+[1.987s] creating /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index/resource_index/packages
+[1.988s] copying resource/gazebo_sim -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/ament_index/resource_index/packages
+[1.988s] copying package.xml -> /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/share/gazebo_sim
+[1.988s] running install_egg_info
+[1.990s] Copying ../../build/gazebo_sim/gazebo_sim.egg-info to /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim-0.0.0-py3.10.egg-info
+[1.992s] running install_scripts
+[2.026s] Installing gazebo_sim script to /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/gazebo_sim
+[2.027s] writing list of installed files to '/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log'
+[2.080s] Invoked command in '/home/israel/pastaTesteNicola/gz_sim_ws/src/gazebo_sim' returned '0': PYTHONPATH=/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/prefix_override:/home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazebo_sim build --build-base /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build install --record /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log --single-version-externally-managed

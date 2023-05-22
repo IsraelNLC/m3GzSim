@@ -1,0 +1,21 @@
+[0.864s] Invoking command in '/home/israel/pastaTesteNicola/gz_sim_ws/src/gazebo_sim': PYTHONPATH=/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/prefix_override:/home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazebo_sim build --build-base /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build install --record /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log --single-version-externally-managed
+[1.164s] running egg_info
+[1.165s] writing ../../build/gazebo_sim/gazebo_sim.egg-info/PKG-INFO
+[1.165s] writing dependency_links to ../../build/gazebo_sim/gazebo_sim.egg-info/dependency_links.txt
+[1.166s] writing entry points to ../../build/gazebo_sim/gazebo_sim.egg-info/entry_points.txt
+[1.166s] writing requirements to ../../build/gazebo_sim/gazebo_sim.egg-info/requires.txt
+[1.166s] writing top-level names to ../../build/gazebo_sim/gazebo_sim.egg-info/top_level.txt
+[1.169s] reading manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+[1.170s] writing manifest file '../../build/gazebo_sim/gazebo_sim.egg-info/SOURCES.txt'
+[1.170s] running build
+[1.170s] running build_py
+[1.170s] running install
+[1.170s] running install_lib
+[1.172s] running install_data
+[1.172s] running install_egg_info
+[1.174s] removing '/home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[1.174s] Copying ../../build/gazebo_sim/gazebo_sim.egg-info to /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages/gazebo_sim-0.0.0-py3.10.egg-info
+[1.175s] running install_scripts
+[1.200s] Installing gazebo_sim script to /home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/gazebo_sim
+[1.201s] writing list of installed files to '/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log'
+[1.243s] Invoked command in '/home/israel/pastaTesteNicola/gz_sim_ws/src/gazebo_sim' returned '0': PYTHONPATH=/home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/prefix_override:/home/israel/pastaTesteNicola/gz_sim_ws/install/gazebo_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazebo_sim build --build-base /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/build install --record /home/israel/pastaTesteNicola/gz_sim_ws/build/gazebo_sim/install.log --single-version-externally-managed
